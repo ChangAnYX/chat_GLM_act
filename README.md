@@ -16,4 +16,5 @@ question: ""  #问题
 }
 
 利用prompt对原chatGLM模型进行提示
+
 ![图片](https://user-images.githubusercontent.com/126737340/234813238-9fd4732e-3371-4acd-8b02-6d5f5248188c.png)
